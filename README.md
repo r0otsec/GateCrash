@@ -1,10 +1,10 @@
-# GateCrash
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/r0otsec/GateCrash/refs/heads/main/images/gatecrash.png" alt="Alt Text" width="750" height="750">
+  <img src="https://raw.githubusercontent.com/r0otsec/GateCrash/main/images/gatecrash.png" width="500">
 </p>
 
->[!important]
->Currently under active development and testing.
+<p align="center">
+<b>A 403 Bypass Playground for Pentesters</b><br>
+</p>
 
-GateCrash is a vulnerable web application designed for pentesters to practice 403 bypass techniques.
+> [!IMPORTANT]
+> Currently under active development and testing.
